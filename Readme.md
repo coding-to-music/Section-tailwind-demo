@@ -1,5 +1,10 @@
 ### Getting Started with Tailwindcss
 
+https://www.section.io/engineering-education/introduction-to-tailwind-css/
+
+https://github.com/katungi/Section-tailwind-demo
+
+
 CSS technology was one of the biggest game-changers in web development. It allowed for more styling capabilities and freedom. As CSS grew, so did it's difficulty. CSS in retrospect is not challenging to write, but it can be tricky to implement.
 
 The next phase in CSS was the development of libraries and frameworks. One of the most famous examples of CSS frameworks is bootstrap.
